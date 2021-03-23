@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083139591593",
+    "project_id": "fluttershare-10ead",
+    "storage_bucket": "fluttershare-10ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083139591593:android:ead3d68b080278bcd988b8",
+        "android_client_info": {
+          "package_name": "com.prasit.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083139591593-q6kee7u8polfsdet59epmd40mlj9d8dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt-VWO5rfszHctlDuPtNkfV-FrNHnTPD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083139591593-q6kee7u8polfsdet59epmd40mlj9d8dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
